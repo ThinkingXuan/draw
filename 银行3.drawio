@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T13:29:02.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pD7uNIDGaeB8hGWrJtqQ" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T13:30:24.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ftazz5I1BA7U8sj73u3M" version="14.0.3" type="github">
   <diagram id="feWMyJ2JA-bkwLYrZOG4" name="第 1 页">
     <mxGraphModel dx="868" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="zZyJ8hrBkpWKRkzXpiwk-6" value="表内违约期数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="220" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zZyJ8hrBkpWKRkzXpiwk-13" value="所有合同违约期数相加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zZyJ8hrBkpWKRkzXpiwk-13" value="各个合同违约期数相加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zZyJ8hrBkpWKRkzXpiwk-16" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
