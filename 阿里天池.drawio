@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T11:33:14.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" version="15.5.1" etag="TmAlSkDstinzIaQ9Ul26" type="github"><diagram id="0W6gI1zaMcV8jhzeGsng">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-12T11:40:01.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="JKAesxFopuIAFGFosFOo" version="15.5.1" type="github">
+  <diagram id="0W6gI1zaMcV8jhzeGsng" name="Page-1">
+    <mxGraphModel dx="996" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5gr-5OpFDuaY5Mmk2K2i-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="5gr-5OpFDuaY5Mmk2K2i-1" target="5gr-5OpFDuaY5Mmk2K2i-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5gr-5OpFDuaY5Mmk2K2i-1" value="获取用户信息&lt;br&gt;/user/:username" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gr-5OpFDuaY5Mmk2K2i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="5gr-5OpFDuaY5Mmk2K2i-2" target="5gr-5OpFDuaY5Mmk2K2i-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5gr-5OpFDuaY5Mmk2K2i-2" value="获取房间信息&lt;br&gt;/room/:roomid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gr-5OpFDuaY5Mmk2K2i-4" value="接口缓存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
